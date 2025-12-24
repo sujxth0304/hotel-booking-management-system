@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Management System (Backend)
+# Hotel Booking Management System (Backend)
 
 A **Hotel Booking Management System backend** built using **Java Spring Boot**, **Hibernate (JPA)**, **MySQL**, and **JWT-based authentication**.  
 This project provides a secure and scalable REST API for managing hotel rooms, users, and bookings.
@@ -7,7 +7,7 @@ The frontend is planned to be developed using **Angular**.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Backend
 - Java 17
@@ -25,7 +25,7 @@ The frontend is planned to be developed using **Angular**.
 
 ---
 
-## ✨ Features
+## Features
 
 - JWT-based Authentication & Authorization
 - User Registration & Login
@@ -38,7 +38,7 @@ The frontend is planned to be developed using **Angular**.
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 - Controller Layer – Handles REST API endpoints
 - Service Layer – Business logic
@@ -48,7 +48,7 @@ The frontend is planned to be developed using **Angular**.
 
 ---
 
-## 📂 Project Structure (Backend)
+## Project Structure (Backend)
 
 ```
 src/main/java
@@ -63,7 +63,7 @@ src/main/java
 
 ---
 
-## 🔐 Authentication Flow
+## Authentication Flow
 
 1. User registers or logs in
 2. Backend generates a JWT token
@@ -77,7 +77,7 @@ Authorization: Bearer <JWT_TOKEN>
 
 ---
 
-## 🗃️ Database Configuration
+## Database Configuration
 
 Update your **application.properties**:
 
@@ -95,7 +95,7 @@ jwt.expiration=86400000
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 ### Prerequisites
 - Java 17+
@@ -119,7 +119,7 @@ http://localhost:8080
 
 ---
 
-## 🧪 API Testing
+## API Testing
 
 You can test APIs using:
 - Postman
@@ -130,7 +130,7 @@ Make sure to include the JWT token for secured routes.
 
 ---
 
-## 🧩 Frontend (Angular) – Upcoming
+## Frontend (Angular) – Upcoming
 
 Planned features:
 - User authentication UI
@@ -140,7 +140,7 @@ Planned features:
 
 ---
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 - Swagger API documentation
 - Payment gateway integration
@@ -151,13 +151,13 @@ Planned features:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Sujith Santhosh**  
 GitHub: https://github.com/sujxth0304  
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
